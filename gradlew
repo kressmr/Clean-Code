@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
-chmod +x gradlew
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
